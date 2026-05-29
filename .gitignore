@@ -1,0 +1,8 @@
+/vendor/
+/.vscode/
+/uploads/avatars/*
+!/uploads/avatars/.gitkeep
+/uploads/discount_ids/*
+!/uploads/discount_ids/.gitkeep
+/uploads/posters/*
+!/uploads/posters/.gitkeep
